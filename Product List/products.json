@@ -1,0 +1,524 @@
+[
+  {
+    "id": 1,
+    "name": "Domaseco Style Door",
+    "price": 10000,
+    "image": "image/Doors/1d.jpeg"
+  },
+  {
+    "id": 2,
+    "name": "Modern Panel Door",
+    "price": 10000,
+    "image": "image/Doors/2d.jpeg"
+  },
+  {
+    "id": 3,
+    "name": "Arched Classic Door",
+    "price": 15000,
+    "image": "image/Doors/3d.jpeg"
+  },
+  {
+    "id": 4,
+    "name": "Diagonal Trim Door",
+    "price": 10000,
+    "image": "image/Doors/4d.jpeg"
+  },
+  {
+    "id": 5,
+    "name": "Layered Frame Door",
+    "price": 10000,
+    "image": "image/Doors/5d.jpeg"
+  },
+  {
+    "id": 6,
+    "name": "Chevron Pattern Door",
+    "price": 11000,
+    "image": "image/Doors/6d.jpeg"
+  },
+  {
+    "id": 7,
+    "name": "Recessed Central Door",
+    "price": 10000,
+    "image": "image/Doors/7d.jpeg"
+  },
+  {
+    "id": 8,
+    "name": "Gemetric Textured Door",
+    "price": 10000,
+    "image": "image/Doors/8d.jpeg"
+  },
+
+  {
+    "id": 9,
+    "name": "Horizontal Glass Door",
+    "price": 11000,
+    "image": "image/Doors/9d.jpg"
+  },
+  {
+    "id": 10,
+    "name": "Vertical Glass Door",
+    "price": 11000,
+    "image": "image/Doors/10d.jpg"
+  },
+
+  {
+    "id": 11,
+    "name": "Modern Horizontal Grain Door",
+    "price": 10000,
+    "image": "image/Doors/11d.jpg"
+  },
+  {
+    "id": 12,
+    "name": "Classic Raised Door",
+    "price": 10500,
+    "image": "image/Doors/12d.jpg"
+  },
+
+  {
+    "id": 13,
+    "name": "Sliding Window",
+    "price": 9000,
+    "image": "image/windows/1W.jpeg"
+  },
+  {
+    "id": 8000,
+    "name": "Double Casement Window",
+    "price": 250,
+    "image": "image/windows/2W.jpeg"
+  },
+  {
+    "id": 90000,
+    "name": "Sliding Window Panel",
+    "price": 290,
+    "image": "image/windows/3W.jpeg"
+  },
+  {
+    "id": 80000,
+    "name": "French Window",
+    "price": 200,
+    "image": "image/windows/4W.jpeg"
+  },
+  {
+    "id": 9800,
+    "name": "Swing Window",
+    "price": 200,
+    "image": "image/windows/5W.jpeg"
+  },
+  {
+    "id": 9000,
+    "name": "MultiPanel Window ",
+    "price": 200,
+    "image": "image/windows/6W.jpeg"
+  },
+  {
+    "id": 10000,
+    "name": "Casement Window",
+    "price": 200,
+    "image": "image/windows/7W.jpeg"
+  },
+  {
+    "id": 20,
+    "name": "Sliding Wooden Window",
+    "price": 8500,
+    "image": "image/windows/8W.jpeg"
+  },
+
+  {
+    "id": 21,
+    "name": "Ar ched Top Window",
+    "price": 9000,
+    "image": "image/windows/9W.jpeg"
+  },
+  {
+    "id": 22,
+    "name": "Pivot Window",
+    "price": 10000,
+    "image": "image/windows/10W.jpg"
+  },
+
+  {
+    "id": 23,
+    "name": "Casement window",
+    "price": 10000,
+    "image": "image/windows/11W.jpg"
+  },
+  {
+    "id": 24,
+    "name": "Trim-Fixed Window",
+    "price": 9700,
+    "image": "image/windows/12W.jpg"
+  },
+  {
+    "id": 25,
+    "name": "Rectangular Dining Table ",
+    "price": 30000,
+    "image": "image/tables/1T.jpeg"
+  },
+
+  {
+    "id": 26,
+    "name": "Modern Coffee Table ",
+    "price": 15000,
+    "image": "image/tables/2T.jpeg"
+  },
+  {
+    "id": 27,
+    "name": "Oval Dining Table ",
+    "price": 30000,
+    "image": "image/tables/3T.jpeg"
+  },
+  {
+    "id": 28,
+    "name": "Round Dining Table",
+    "price": 30000,
+    "image": "image/tables/4T.jpeg"
+  },
+  {
+    "id": 29,
+    "name": "Large Carved Dining Table ",
+    "price": 30000,
+    "image": "image/tables/5T.jpeg"
+  },
+  {
+    "id": 30,
+    "name": "Compact Study/Work Desk ",
+    "price": 15000,
+    "image": "image/tables/6T.jpg"
+  },
+  {
+    "id": 31,
+    "name": "Executive L-Shaped Office Desk",
+    "price": 20000,
+    "image": "image/tables/7T.jpg"
+  },
+  {
+    "id": 32,
+    "name": "Square Wooden Dining",
+    "price": 30000,
+    "image": "image/tables/8T.jpeg"
+  },
+  {
+    "id": 33,
+    "name": "Low Coffee Table with Shelf",
+    "price": 20000,
+    "image": "image/tables/9T.jpeg"
+  },
+  {
+    "id": 34,
+    "name": "Live Edge Center Table",
+    "price": 30000,
+    "image": "image/tables/10T.jpg"
+  },
+  {
+    "id": 35,
+    "name": "Live Edge Dining Table ",
+    "price": 30000,
+    "image": "image/tables/11T.jpg"
+  },
+  {
+    "id": 36,
+    "name": "Luxury Live Edge Dining Table ",
+    "price": 45000,
+    "image": "image/tables/12T.jpg"
+  },
+  {
+    "id": 37,
+    "name": "Slatted High-Back Chair",
+    "price": 4500,
+    "image": "image/chairs/1ch.jpeg"
+  },
+  {
+    "id":38 ,
+    "name": "Modern Armchair with Curves",
+    "price": 5000,
+    "image": "image/chairs/2ch.jpeg"
+  },
+
+  {
+    "id": 39,
+    "name": "Short-Back Wide Chair",
+    "price": 5000,
+    "image": "image/chairs/3ch.jpeg"
+  },
+  {
+    "id": 40,
+    "name": "Sculptural Back Chair",
+    "price": 5000,
+    "image": "image/chairs/4ch.jpeg"
+  },
+
+  {
+    "id": 41,
+    "name": "Armchairs with Curved Arms ",
+    "price": 5000,
+    "image": "image/chairs/5ch.jpeg"
+  },
+  {
+    "id": 42,
+    "name": "S-Shaped Lounge Chair",
+    "price": 10000,
+    "image": "image/chairs/6ch.jpeg"
+  },
+  {
+    "id": 43,
+    "name": "Upholstered Lounge Chair ",
+    "price": 5000,
+    "image": "image/chairs/7ch.jpeg"
+  },
+
+  {
+    "id": 44,
+    "name": "Side Table Chair Combo",
+    "price": 5000,
+    "image": "image/chairs/8ch.jpeg"
+  },
+  {
+    "id": 5000,
+    "name": "Modern Sculptural Dining Chair",
+    "price": 5000,
+    "image": "image/chairs/9ch.jpeg"
+  },
+  {
+    "id": 5000,
+    "name": "Wooden Rocking Chair",
+    "price": 5000,
+    "image": "image/chairs/10ch.jpeg"
+  },
+  {
+    "id": 4500,
+    "name": "Curved Backrest Chair with Cushion",
+    "price": 4500,
+    "image": "image/chairs/11ch.jpeg"
+  },
+  {
+    "id": 8000,
+    "name": "Pod Style Lounge Chair",
+    "price": 8000,
+    "image": "image/chairs/12ch.jpeg"
+  },
+  {
+    "id": 25000,
+    "name": "Oslo Low Platform Bed",
+    "price": 25000,
+    "image": "image/beds/1b.jpeg"
+  },
+  {
+    "id": 25000,
+    "name": "Sienna Walnut Bed Frame",
+    "price": 25000,
+    "image": "image/beds/2b.jpeg"
+  },
+  {
+    "id": 25000,
+    "name": "Camden Modern Bed",
+    "price": 25000,
+    "image": "image/beds/3b.jpeg"
+  },
+
+  {
+    "id": 25000,
+    "name": "Verona Classic Bed",
+    "price": 25000,
+    "image": "image/beds/4b.jpeg"
+  },
+  {
+    "id": 25000,
+    "name": ": Rivo Storage Bed",
+    "price": 25000,
+    "image": "image/beds/5b.jpeg"
+  },
+
+  {
+    "id": 25000,
+    "name": "Lucerne Curved Edge Bed",
+    "price": 25000,
+    "image": "image/beds/6b.jpeg"
+  },
+  {
+    "id": 30000,
+    "name": "Berlin Padded Panel Bed",
+    "price": 30000,
+    "image": "image/beds/7b.jpeg"
+  },
+  {
+    "id": 30000,
+    "name": "Como Hydraulic Storage Bed",
+    "price": 200,
+    "image": "image/beds/8b.jpeg"
+  },
+
+  {
+    "id": 25000,
+    "name": "Aspen Solid Wood Bed",
+    "price": 200,
+    "image": "image/beds/9b.jpeg"
+  },
+  {
+    "id": 30000,
+    "name": "Florence Carved Headboard Bed",
+    "price": 250,
+    "image": "image/beds/10b.jpeg"
+  },
+  {
+    "id": 25000,
+    "name": "Kyoto Minimalist Storage Bed",
+    "price": 290,
+    "image": "image/beds/11b.jpeg"
+  },
+  {
+    "id": 60,
+    "name": "Oslo Panel Bed with Measurements",
+    "price": 200,
+    "image": "image/beds/12b.jpeg"
+  },
+  {
+    "id": 61,
+    "name": "Door Sliding Wardrobe",
+    "price": 200,
+    "image": "image/cabinets/1c.jpeg"
+  },
+  {
+    "id": 62,
+    "name": "Bar Cabinet Console",
+    "price": 30000,
+    "image": "image/cabinets/2c.jpeg"
+  },
+  {
+    "id": 63,
+    "name": "Open Wardrobe Organizer",
+    "price": 200,
+    "image": "image/cabinets/3c.jpeg"
+  },
+  {
+    "id": 64,
+    "name": "Glass Shelf Cabinet with Slatted Doors",
+    "price": 200,
+    "image": "image/cabinets/4c.jpeg"
+  },
+
+  {
+    "id": 65,
+    "name": "Tall Chest of Drawers",
+    "price": 200,
+    "image": "image/cabinets/5c.jpeg"
+  },
+  {
+    "id": 66,
+    "name": "China Cabinet with Hutch",
+    "price": 200,
+    "image": "image/cabinets/6c.jpeg"
+  },
+
+  {
+    "id": 67,
+    "name": "Compact Display Hutch",
+    "price": 200,
+    "image": "image/cabinets/7c.jpeg"
+  },
+  {
+    "id": 68,
+    "name": "Corner Study Table with Shelves",
+    "price": 200,
+    "image": "image/cabinets/8c.jpeg"
+  },
+  {
+    "id": 69,
+    "name": "Woven Door Sideboard",
+    "price": 200,
+    "image": "image/cabinets/9c.jpeg"
+  },
+
+  {
+    "id": 70,
+    "name": "Tall Glass Bookcase with Drawers",
+    "price": 200,
+    "image": "image/cabinets/10c.jpeg"
+  },
+  {
+    "id": 71,
+    "name": "Multi-Layer Shoe Cabinet",
+    "price": 250,
+    "image": "image/cabinets/11c.jpeg"
+  },
+  {
+    "id": 72,
+    "name": "Full Wall Wardrobe Closet",
+    "price": 290,
+    "image": "image/cabinets/12c.jpeg"
+  },
+  {
+    "id": 73,
+    "name": "Standing Mirror with Shelves",
+    "price": 200,
+    "image": "image/Home Decor/1h.jpeg"
+  },
+  {
+    "id": 74,
+    "name": "Geometric Wall Shelf Cluster",
+    "price": 200,
+    "image": "image/Home Decor/2h.jpeg"
+  },
+  {
+    "id": 75,
+    "name": "Angled Wall Shelves",
+    "price": 200,
+    "image": "image/Home Decor/3h.jpeg"
+  },
+  {
+    "id": 76,
+    "name": "Corner Standing Unit with Mirror",
+    "price": 200,
+    "image": "image/Home Decor/4h.jpeg"
+  },
+  {
+    "id": 77,
+    "name": "Oval Wall Shelf with 2 Layers",
+    "price": 200,
+    "image": "image/Home Decor/5h.jpeg"
+  },
+
+  {
+    "id": 78,
+    "name": " Water Drop-Shaped Mirror Shelf",
+    "price": 200,
+    "image": "image/Home Decor/6h (2).jpeg"
+  },
+  {
+    "id": 79,
+    "name": "Tiered Circular Plant Shelf",
+    "price": 200,
+    "image": "image/Home Decor/7h.jpeg"
+  },
+
+  {
+    "id": 80,
+    "name": "Tall White Modern Shelf",
+    "price": 200,
+    "image": "image/Home Decor/8h.jpeg"
+  },
+  {
+    "id": 81,
+    "name": "Zigzag Freestanding Shelf",
+    "price": 200,
+    "image": "image/Home Decor/9h.jpeg"
+  },
+  {
+    "id": 82,
+    "name": "Diagonal Book Shelf ",
+    "price": 200,
+    "image": "image/Home Decor/10h.jpeg"
+  },
+
+  {
+    "id": 83,
+    "name": "Corner Wall Shelf",
+    "price": 200,
+    "image": "image/Home Decor/11h.jpeg"
+  },
+  {
+    "id": 84,
+    "name": "Modern Cube Wall Shelf",
+    "price": 250,
+    "image": "image/Home Decor/12h.jpeg"
+  }
+]
